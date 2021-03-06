@@ -5,7 +5,7 @@
   * Compile a list of all candidates
   * Calculate the total number of votes each candidate received
   * Calculate the percentage of votes each candidate won
-  * Determine the Winnwer of the elction based on popular vite.
+  * Determine the winner of the elction based on popular vote.
   
 ## Resources
   * Data Source: election_results.csv
