@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Project Overview
-  A Colorado Board of Elections has asked me to complete an udit that includes the following tasks for a recent local congressional election.
+  A Colorado Board of Elections has asked me to complete an audit that includes the following tasks for a recent local congressional election.
   * Determine the total number of votes.
   * Compile a list of all candidates
   * Calculate the total number of votes each candidate received
