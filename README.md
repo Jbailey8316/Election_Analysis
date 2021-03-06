@@ -9,6 +9,7 @@
   
 ## Resources
   * Data Source: election_results.csv
+  * Output Source: election_anaylsis.txt
   * Software: Pyhton 3.9.2 64 bit, Visual Studio Code 1.54.1
 
 ## Summary
